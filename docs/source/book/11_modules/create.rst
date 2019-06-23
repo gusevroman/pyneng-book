@@ -80,7 +80,8 @@ check_ip_function.py.
     $ python get_correct_ip.py
     Проверка IP...
     10.1.1.1 True
-    10.1.1 False
+    8.8.8.8 True
+    2.2.2 False
     Проверка списка IP-адресов
     ['10.1.1.1', '8.8.8.8']
 
